@@ -34,7 +34,7 @@ Hey! I'm Balaji! and this is a Simple Game Program
 ![image](https://github.com/bxlxji/Projects-in-Python/assets/79824566/26043197-a7e8-4f50-b6dc-1d84243dc278)
 
 
-```
+``` python
 import os
 import random
 import string
@@ -92,7 +92,7 @@ else:
 
 ![image](https://github.com/bxlxji/Projects-in-Python/assets/79824566/36afce13-8a48-489b-852c-cd0577258a8b)
 
-```
+``` python
 from time import sleep
 from random import randint
 import msvcrt
